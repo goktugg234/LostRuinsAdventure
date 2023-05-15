@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LostRuinsAdventure-8850.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\LostRuinsAdventureEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\Artifact.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\CollectArtifact.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRACharacterBase.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\EnemyCharacter.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRAGameInstance.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRAHealthComponent.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\PatrolPoint.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\WB_DeathScreenBase.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventure.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventureCharacter.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventureGameMode.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\Artifact.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\CollectArtifact.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\EnemyCharacter.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventure.init.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventureCharacter.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LostRuinsAdventureGameMode.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRACharacterBase.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRAGameInstance.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\LRAHealthComponent.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\PatrolPoint.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\WB_DeathScreenBase.gen.cpp.obj"
+"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\Default.rc2.res"
+/OUT:"D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\UE4Editor-LostRuinsAdventure-8850.lib"
+/INCLUDE:IMPLEMENT_MODULE_LostRuinsAdventure

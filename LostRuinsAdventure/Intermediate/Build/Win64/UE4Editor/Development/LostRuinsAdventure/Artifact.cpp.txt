@@ -1,0 +1,9 @@
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\Definitions.LostRuinsAdventure.h
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Source\LostRuinsAdventure\Public\Artifact/Artifact.h
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Inc\LostRuinsAdventure\Artifact.generated.h
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Source\LostRuinsAdventure\Public\Artifact/CollectArtifact.h
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Inc\LostRuinsAdventure\CollectArtifact.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h

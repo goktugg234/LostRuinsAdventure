@@ -1,0 +1,2 @@
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Intermediate\Build\Win64\UE4Editor\Development\LostRuinsAdventure\Definitions.LostRuinsAdventure.h
+D:\Unreal Engine\gamegine\LostRuinsAdventure\Source\LostRuinsAdventure\LostRuinsAdventure.h

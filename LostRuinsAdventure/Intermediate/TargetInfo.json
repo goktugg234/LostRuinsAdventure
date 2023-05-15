@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LostRuinsAdventure",
+			"Path": "D:\\Unreal Engine\\gamegine\\LostRuinsAdventure\\Source\\LostRuinsAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LostRuinsAdventureEditor",
+			"Path": "D:\\Unreal Engine\\gamegine\\LostRuinsAdventure\\Source\\LostRuinsAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

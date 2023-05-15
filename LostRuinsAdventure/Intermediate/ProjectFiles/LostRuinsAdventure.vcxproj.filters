@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LostRuinsAdventure.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D51428D5-8FD1-4EF0-95D3-F69939106FBE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LostRuinsAdventure.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LostRuinsAdventureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4DB134FC-EB9E-458B-BCCA-8AA6D21EF9FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LostRuinsAdventure">
+      <UniqueIdentifier>{686D0DB9-AA62-4EFD-AA5F-E77C7C95670E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventure.Build.cs">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventure.cpp">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventure.h">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventureCharacter.cpp">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventureCharacter.h">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventureGameMode.cpp">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\LostRuinsAdventureGameMode.h">
+      <Filter>Source\LostRuinsAdventure</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Private">
+      <UniqueIdentifier>{38E4BF66-B1DB-4333-8689-644CF4A041FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\LostRuinsAdventure\Private\Artifact">
+      <UniqueIdentifier>{1F0FFBC0-4CDE-4CC5-99EB-70460CC75867}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Artifact\Artifact.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Artifact</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Artifact\CollectArtifact.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Artifact</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\Characters">
+      <UniqueIdentifier>{4E35DE3F-61A3-494F-98E2-6E28714D3BA2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Characters\LRACharacterBase.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\Enemy">
+      <UniqueIdentifier>{95669ED6-FF72-4AFE-BBC2-0D30F1EE5F1D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Enemy\EnemyCharacter.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Enemy</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\GameInstance">
+      <UniqueIdentifier>{FB5C9014-62FD-4F25-B707-45A2F0D0F712}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\GameInstance\LRAGameInstance.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\GameInstance</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\Health">
+      <UniqueIdentifier>{7EB35DA8-3466-4327-B56F-32B8DD618F12}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Health\LRAHealthComponent.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Health</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\Patroling">
+      <UniqueIdentifier>{329B696C-BE40-4119-9992-982B08A5C5EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Patroling\PatrolPoint.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Patroling</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Private\Widgets">
+      <UniqueIdentifier>{8ED74B4C-A621-4BC9-870D-FDB6CEE95AC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostRuinsAdventure\Private\Widgets\WB_DeathScreenBase.cpp">
+      <Filter>Source\LostRuinsAdventure\Private\Widgets</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostRuinsAdventure\Public">
+      <UniqueIdentifier>{A7BB3F5C-0214-4618-A88B-F2FC79CA5F56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\LostRuinsAdventure\Public\Artifact">
+      <UniqueIdentifier>{A58C2C87-CD91-47A3-82C7-CB54E04FE879}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Artifact\Artifact.h">
+      <Filter>Source\LostRuinsAdventure\Public\Artifact</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Artifact\CollectArtifact.h">
+      <Filter>Source\LostRuinsAdventure\Public\Artifact</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\Characters">
+      <UniqueIdentifier>{C3CADDCE-C120-4655-AF07-7B40AC6147B2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Characters\LRACharacterBase.h">
+      <Filter>Source\LostRuinsAdventure\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\Enemy">
+      <UniqueIdentifier>{E1C3C3AC-2706-40F2-AFF0-5CA93BE7C891}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Enemy\EnemyCharacter.h">
+      <Filter>Source\LostRuinsAdventure\Public\Enemy</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\GameInstance">
+      <UniqueIdentifier>{73B2D764-72F3-4F20-80FE-CE1A077DF334}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\GameInstance\LRAGameInstance.h">
+      <Filter>Source\LostRuinsAdventure\Public\GameInstance</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\Health">
+      <UniqueIdentifier>{C375EEA5-1A9F-427B-8285-7CA493116900}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Health\LRAHealthComponent.h">
+      <Filter>Source\LostRuinsAdventure\Public\Health</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\Patroling">
+      <UniqueIdentifier>{5639DF6B-FD75-4227-BC02-20610C833A0C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Patroling\PatrolPoint.h">
+      <Filter>Source\LostRuinsAdventure\Public\Patroling</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostRuinsAdventure\Public\Widgets">
+      <UniqueIdentifier>{3C02C323-C250-4C7B-91B7-D3FE87B24B86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostRuinsAdventure\Public\Widgets\WB_DeathScreenBase.h">
+      <Filter>Source\LostRuinsAdventure\Public\Widgets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

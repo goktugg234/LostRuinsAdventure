@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine\\gamegine\\LostRuinsAdventure\\Source\\LostRuinsAdventure\\LostRuinsAdventure.Build.cs",
+		"D:\\Unreal Engine\\gamegine\\LostRuinsAdventure\\Source\\LostRuinsAdventure.Target.cs",
+		"D:\\Unreal Engine\\gamegine\\LostRuinsAdventure\\Source\\LostRuinsAdventureEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
